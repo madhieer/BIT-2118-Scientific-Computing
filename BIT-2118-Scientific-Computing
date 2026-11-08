@@ -1,0 +1,23 @@
+BIT-2118-Scientific-Computing/
+│
+├── README.md
+├── documentation/
+│   └── Scientific_Computing_Handout.docx
+│
+├── python_demos/
+│   ├── 01_numpy_arrays.py
+│   ├── 02_vectorization.py
+│   ├── 03_floating_point.py
+│   ├── 04_matrix_operations.py
+│   ├── 05_linear_equations.py
+│   ├── ...
+│   └── 19_monte_carlo.py
+│
+├── graphs/
+│   ├── quadratic_graph.png
+│   └── numerical_comparison.png
+│
+├── presentation/
+│   └── Scientific_Computing_Presentation.pptx
+│
+└── requirements.txt
